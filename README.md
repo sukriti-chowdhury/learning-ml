@@ -4,14 +4,17 @@ This repository contains introductory Python scripts designed to help beginners 
 
 ## Folder Structure
 
+
 ```
 learning-ml/
 │
 ├── introduction_to_python_1/
 │   ├── hello_world.py
-│   └── operators.py
+│   ├── operators.py
+│   └── functions_2.py
 └── README.md
 ```
+
 
 ## File Descriptions
 
@@ -48,6 +51,23 @@ Enter your name: John
 Enter your age: 25
 Hello, John
 You are 25 years old.
+```
+
+### `introduction_to_python_1/functions_2.py`
+This script demonstrates different types of functions and object types in Python:
+- **Built-in `type()` function**: Shows how to check the type of various objects (integers, floats, strings, lists, tuples).
+- **Class Definition**: Defines a `Car` class with attributes and a method to print car details.
+- **Object Instantiation**: Creates an instance of the `Car` class and demonstrates method calling and type checking.
+
+#### Example Output
+```
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'list'>
+<class 'tuple'>
+Car Make: Toyota, Model: Corolla
+<class '__main__.Car'>
 ```
 
 ## Getting Started
