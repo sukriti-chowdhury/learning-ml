@@ -1,0 +1,108 @@
+{
+  "footballers": [
+    {
+      "name": "Lionel Messi",
+      "status": "active",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "club": "Inter Miami CF",
+      "age": 38,
+      "career_highlights": [
+        "7-time Ballon d'Or winner",
+        "2022 FIFA World Cup champion",
+        "Top scorer in FC Barcelona history"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "status": "active",
+      "nationality": "Portugal",
+      "position": "Forward",
+      "club": "Al-Nassr FC",
+      "age": 40,
+      "career_highlights": [
+        "5-time Ballon d'Or winner",
+        "All-time top scorer in UEFA Champions League",
+        "Won league titles in England, Spain, and Italy"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "status": "active",
+      "nationality": "France",
+      "position": "Forward",
+      "club": "Paris Saint-Germain",
+      "age": 26,
+      "career_highlights": [
+        "2018 FIFA World Cup champion",
+        "Multiple Ligue 1 titles",
+        "Renowned for speed and finishing"
+      ]
+    },
+    {
+      "name": "Erling Haaland",
+      "status": "active",
+      "nationality": "Norway",
+      "position": "Striker",
+      "club": "Manchester City",
+      "age": 25,
+      "career_highlights": [
+        "Premier League Golden Boot winner",
+        "UEFA Champions League top scorer",
+        "Known for strength and goal-scoring ability"
+      ]
+    },
+    {
+      "name": "Pelé",
+      "status": "retired",
+      "nationality": "Brazil",
+      "position": "Forward",
+      "club": "Santos FC",
+      "age": "Passed away in 2022",
+      "career_highlights": [
+        "3-time FIFA World Cup champion (1958, 1962, 1970)",
+        "Scored over 1,000 professional goals",
+        "Global ambassador for football"
+      ]
+    },
+    {
+      "name": "Diego Maradona",
+      "status": "retired",
+      "nationality": "Argentina",
+      "position": "Attacking Midfielder",
+      "club": "Napoli",
+      "age": "Passed away in 2020",
+      "career_highlights": [
+        "1986 FIFA World Cup champion",
+        "Legendary 'Hand of God' goal",
+        "Transformed Napoli into Serie A champions"
+      ]
+    },
+    {
+      "name": "Zinedine Zidane",
+      "status": "retired",
+      "nationality": "France",
+      "position": "Midfielder",
+      "club": "Real Madrid",
+      "age": 53,
+      "career_highlights": [
+        "1998 FIFA World Cup champion",
+        "UEFA Champions League winner",
+        "Successful career as Real Madrid manager"
+      ]
+    },
+    {
+      "name": "Ronaldinho",
+      "status": "retired",
+      "nationality": "Brazil",
+      "position": "Attacking Midfielder / Forward",
+      "club": "FC Barcelona",
+      "age": 45,
+      "career_highlights": [
+        "2002 FIFA World Cup champion",
+        "FIFA World Player of the Year (2004, 2005)",
+        "Known for flair, creativity, and smiles"
+      ]
+    }
+  ]
+}
